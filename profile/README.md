@@ -1,4 +1,4 @@
-# 👨‍💻 Shaharia Lab
+# 👨‍💻 Shaharia Lab OÜ
 
 Welcome to Shaharia Lab! We are a software development company focused on developing IT-enabled services, contributing to and maintaining open-source projects, and providing software solutions to boost productivity and efficiency for businesses.
 
