@@ -1,10 +1,5 @@
 # 👨‍💻 Shaharia Lab OÜ
 
-<p align="center">
-  <img src="https://github.com/shaharia-lab/terediX/assets/1095008/7b9dce75-d48f-4b48-a729-6eeca1917a90" width="200"/>
-  </p>
-
-
 Welcome to Shaharia Lab! We are a software development company focused on developing IT-enabled services, contributing to and maintaining open-source projects, and providing software solutions to boost productivity and efficiency for businesses.
 
 ## 🌐 Website
